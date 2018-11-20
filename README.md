@@ -79,7 +79,8 @@ You have frozen your program *as it executes* and are now inside a REPL *inside 
 You are actually able to explore and manipulate the data *inside* the method in which you've placed your binding. 
 
 Now, in the terminal, in your pry console, type the variable name `this_variable_hasnt_been_interpreted_yet`. You should see a return value of `nil`. That's because the binding you placed on line 7 actually froze the program on line 7 and the variable you just called hasn't been interpreted yet. Consequently, our REPL doesn't know about it. 
-Now, in the terminal, type `exit`, and you'll leave your pry console and the program will continue to execute. 
+Now, in the terminal, type `exit`, and you'll leave youexit
+r pry console and the program will continue to execute. 
 
 ## Instructions Part II: Using Pry to Debug
 
