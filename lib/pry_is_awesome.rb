@@ -10,3 +10,7 @@ def prying_into_the_method
 end
 
 prying_into_the_method
+puts inside_the_method
+
+
+
