@@ -1,3 +1,3 @@
 def plus_two(num)
-	ans = num + 2
+	answer = num + 2
 end
