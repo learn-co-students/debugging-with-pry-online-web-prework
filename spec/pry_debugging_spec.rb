@@ -7,9 +7,9 @@ describe "#plus_two" do
 	end
 
 def plus_two(num)
-  num = num + 2
-  puts num
-  
+  num
+  return num + 2 
+
 end
 
 end
