@@ -7,3 +7,4 @@ describe "#plus_two" do
 	end
 
 end
+inside_the_method
