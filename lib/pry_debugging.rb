@@ -1,4 +1,4 @@
 def plus_two(num)
-	num + 2
-	num
+	testt = num + 2
+	testt
 end
