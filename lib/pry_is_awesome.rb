@@ -10,3 +10,7 @@ def prying_into_the_method
 end
 
 prying_into_the_method
+this_variable_hasnt_been_interpreted_yet
+
+
+
